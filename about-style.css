@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: whitesmoke
+}
+
+.card {
+    width: 100rem;
+}
