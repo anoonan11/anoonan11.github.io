@@ -1,0 +1,26 @@
+body {
+    background-color: black;
+}
+
+.jumbotron {
+    background-color: transparent;
+    color: whitesmoke
+}
+
+.card {
+    width: 100%;
+    margin: 1rem;
+}
+
+.leaf-anne {
+    width: 20%;
+    float: left;
+    margin-right: 1rem;
+}
+
+#vw {
+    width: 20%;
+    margin-top: 1rem;
+    margin-left: -9.4rem;
+    float: left;
+}
