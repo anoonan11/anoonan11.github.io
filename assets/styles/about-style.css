@@ -1,5 +1,5 @@
 body {
-    background-image: url("/personal-site/assets/leaves.jpg");
+    background-image: url("../../assets/leaves.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
