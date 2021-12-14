@@ -9,9 +9,37 @@
 }
 
 body {
-    background-image: url("./assets/leaves.jpg");
+    background-image: url("../leaves.jpg");
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;    
+    margin-left: auto;
+    margin-right: auto;
+    width: 8em;
+    color: white;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.main-text {
+    position: relative;
+    width: 100%;
+    /* You need to define an explicit height! */
+    height: 100vh;
+}
+
+.main-text h1 {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    text-align: center;
 }

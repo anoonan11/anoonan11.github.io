@@ -1,9 +1,14 @@
 body {
+    background-image: url("../leaves.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
     background-color: black;
 }
 
-.jumbotron {
-    background-color: transparent;
+h1, p {
     color: whitesmoke
 }
 
@@ -23,4 +28,14 @@ body {
     margin-top: 1rem;
     margin-left: -9.4rem;
     float: left;
+}
+
+p {
+    font-size: large;
+}
+
+.career {
+    /* background-color: black; */
+    /* fill-opacity: "10%"; */
+    background: rgba(1,1,1,.2)
 }
