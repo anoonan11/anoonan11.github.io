@@ -32,14 +32,20 @@ h1 {
     position: relative;
     width: 100%;
     /* You need to define an explicit height! */
-    height: 100vh;
+    height: 1%;
 }
 
-.main-text h1 {
+h1 {
     position: absolute;
-    top: 35%;
     left: 50%;
     transform: translate(-50%, -50%);
     width: 100%;
     text-align: center;
+}
+
+.card {
+    margin-left:7%;
+    margin-top:5%;
+    background-color: whitesmoke;
+    padding:1%;
 }

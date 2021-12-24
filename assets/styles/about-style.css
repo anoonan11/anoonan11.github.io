@@ -1,15 +1,15 @@
 body {
-    background-image: url("../../assets/leaves.jpg");
-    -webkit-background-size: cover;
+    /* background-image: url("../../assets/leaves.jpg"); */
+    /* -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     background-repeat: no-repeat;
-    background-color: black;
+    background-color: black; */
 }
 
 h1, p {
-    color: whitesmoke
+    color: black
 }
 
 .card {
