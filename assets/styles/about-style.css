@@ -2,6 +2,10 @@ h1, p {
     color: black
 }
 
+.projects-title{
+    margin-bottom: 100px !important;
+}
+
 .card {
     width: 100%;
     margin: 1rem;
