@@ -40,3 +40,15 @@ h1 {
     background-color: whitesmoke;
     padding:1%;
 }
+
+#project-title {
+    background-color: white;
+    outline: none;
+    border-color: white;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+.btn {
+    margin-top:2%;
+}
