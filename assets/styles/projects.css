@@ -52,3 +52,10 @@ h1 {
 .btn {
     margin-top:2%;
 }
+
+.encryptor {
+    width:30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
