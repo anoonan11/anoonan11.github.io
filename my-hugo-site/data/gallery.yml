@@ -1,0 +1,71 @@
+title: "Projects"
+style: "style2 medium lightbox onscroll-fade-in"
+content: |
+  This is a collection of a few of the projects that I have worked on.
+pictures:
+  - title: "Job Offer Comparison Android App"
+    content: "An application used to compare a user's current job and job offers on their Android device"
+    image: "<div>hello</div>"
+    thumb: "images/gallery/thumbs/job-compare-app.png"
+    button: "Details"
+
+  - title: "Encryptor Android App"
+    content: "An application used to encrypt string text with a simple substitution cipher."
+    image: "images/gallery/fulls/02.jpg"
+    thumb: "images/gallery/thumbs/encrypt.png"
+    button: "Details"
+
+  - title: "Personal Website Starter"
+    content: "A genericized template I created that enables you to create a site just like this one!"
+    image: "images/gallery/fulls/03.jpg"
+    thumb: "images/gallery/thumbs/personal-site-starter.jpg"
+    button: "Details"
+
+  - title: "Fairness and Bias Analysis for Drug Consumption"
+    content: "An AI study focused on understanding drug consumption data, calculating fairness, and mitigating bias amongst attributes associated with protected classes"
+    image: "images/gallery/fulls/04.jpg"
+    thumb: "images/gallery/thumbs/randy-laybourne-x2nLWgLngss-unsplash.jpg"
+    button: "Details"
+
+  - title: "Craigslist Location Selection"
+    content: "A human computer interaction study focused on improving the user experience around filtering content by location"
+    image: "images/gallery/fulls/05.jpg"
+    thumb: "images/gallery/thumbs/searchbar.png"
+    button: "Details"
+
+  - title: "Zara Content Filtering"
+    content: "A human computer interaction study focused on improving the user experience around filtering content categorically"
+    image: "images/gallery/fulls/06.jpg"
+    thumb: "images/gallery/thumbs/Zara.png"
+    button: "Details"
+
+  - title: "Documentation Search"
+    content: "While in the CODA program, our team automatically parsed markdown documentation, fed it into ElasticSearch, and created search functionality for an internal component library."
+    image: "images/gallery/fulls/07.jpg"
+    thumb: "images/gallery/thumbs/search.jpeg"
+    button: "Details"
+
+  - title: "Projet"
+    content: "While in the CODA program, our team created a project management site that enabled live, collaborative sticky notes boards, Gantt charts, and more."
+    image: "images/gallery/fulls/08.jpg"
+    thumb: "images/gallery/thumbs/gantt.jpeg"
+    button: "Details"
+
+  - title: "CODA in the Wall"
+    content: "While in the CODA program, our team made a game that replicated the Hole in the Wall gameshow. It used the TensorFlow Posenet library to detect a user's pose through the webcam and compared it with a pose library."
+    image: "images/gallery/fulls/09.jpg"
+    thumb: "images/gallery/thumbs/hole-wall.jpeg"
+    button: "Details"
+
+  - title: "Dinner Party"
+    content: "With a partner while in the CODA program, we made a fullstack social media site using the Spoonacular API to create a recipe favoriting and sharing site."
+    image: "images/gallery/fulls/10.jpg"
+    thumb: "images/gallery/thumbs/dinner.jpeg"
+    button: "Details"
+
+  - title: "Lost & Found"
+    content: "Independently while in the CODA program, I created a memory matching game."
+    image: "images/gallery/fulls/11.jpg"
+    thumb: "images/gallery/thumbs/memory-game-1.jpeg"
+    button: "Details"
+    
