@@ -4,9 +4,6 @@ id: "first"
 title : "Finanical Technologist"
 content: |
   I work at Capital One in Card Tech, where I am on a team that is created a posted transactions data pipeline using managed EMR and Spark and am currently developing cloud-native REST APIs in Golang as an abstraction to the financial core of the business. Predominantly, I work on the backend of applications and cloud infrastructure (AWS).
-button: 
-  label: "Learn More"
-  link: "#"
 image: "images/nathan-dumlao-lvWw_G8tKsk-unsplash.jpg"
 
   

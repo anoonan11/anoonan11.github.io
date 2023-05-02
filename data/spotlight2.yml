@@ -3,7 +3,4 @@ style: "style1 orient-left content-align-left image-position-center onscroll-ima
 title : "Computer Scientist"
 content: |
   I am currently pursuing my Masters of Science in Computer Science from the Georgia Institute of Technology where my concentration is in Human Computer Interaction. While pursuing this degree part-time, I've had the opportunity to deepen my passions for ethical computing, the political impact of technology, and health informatics.
-button: 
-  label: "Learn More"
-  link: "#"
 image: "images/scott-graham-5fNmWej4tAA-unsplash.jpg"
