@@ -40,26 +40,26 @@ items:
     
   # feature item loop
   - name : "Documentation Search"
-    content : "While in the CODA program, our team automatically parsed markdown documentation, fed it into ElasticSearch, and created search functionality for an internal component library"
+    content : "Created search functionality for an internal component library by automatically parsing markdown documentation and feeding the data into ElasticSearch"
     style : "solid style2 major fa-search"
     
   # feature item loop
   - name : "Project Management Web App"
-    content : "While in the CODA program, our team created a project management site that enabled live, collaborative sticky notes boards, Gantt charts, and more"
+    content : "A project management site that enabled live, collaborative sticky notes boards, Gantt charts, and more"
     style : "solid style2 major fa-object-group"
     
   # feature item loop
   - name : "CODA in the Wall"
-    content : "While in the CODA program, our team made a game that replicated the Hole in the Wall gameshow. It used the TensorFlow Posenet library to detect a user's pose through the webcam and compared it with a pose library"
+    content : "A game that replicated the Hole in the Wall gameshow that leverages the TensorFlow Posenet library to detect a user's pose through the webcam and compares it with the pose library"
     style : "solid style2 major fa-video-camera"
     
   # feature item loop
   - name : "Dinner Party"
-    content : "With a partner while in the CODA program, we made a fullstack social media site using the Spoonacular API to create a recipe favoriting and sharing site"
+    content : "A fullstack social media site backed by the Spoonacular API to enable recipe favoriting and sharing"
     style : "solid style2 major fa-cutlery"
     
   # feature item loop
   - name : "Lost & Found"
-    content : "Independently while in the CODA program, I created a memory matching game"
+    content : "A memory matching game using HTML and CSS"
     style : "style2 major fa-search-minus"
     
